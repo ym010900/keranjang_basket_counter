@@ -1,6 +1,6 @@
 # basketcounterv8
 
-A new Flutter project.
+Project Fish Basket Counter with flutter and PYTORCH LITE Using YoloV8
 
 ## Getting Started
 
