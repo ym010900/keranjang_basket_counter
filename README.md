@@ -1,6 +1,6 @@
 # 🐟 Fish Basket Counter
 
-**Project Fish Basket Counter** adalah aplikasi mobile berbasis **Flutter** yang menggunakan **PyTorch Lite** dan **YOLOv8** untuk mendeteksi serta menghitung jumlah ikan dalam keranjang secara otomatis.
+**Project Fish Basket Counter** adalah aplikasi mobile berbasis **Flutter** yang menggunakan **PyTorch Lite** dan **YOLOv8** untuk mendeteksi serta menghitung jumlah keranjang ikan secara otomatis.
 
 ## 🚀 Fitur Utama
 - Deteksi objek ikan menggunakan model YOLOv8.
