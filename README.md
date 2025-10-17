@@ -1,16 +1,25 @@
-# basketcounterv8
+# 🐟 Fish Basket Counter
 
-Project Fish Basket Counter with flutter and PYTORCH LITE Using YoloV8
+**Project Fish Basket Counter** adalah aplikasi mobile berbasis **Flutter** yang menggunakan **PyTorch Lite** dan **YOLOv8** untuk mendeteksi serta menghitung jumlah ikan dalam keranjang secara otomatis.
 
-## Getting Started
+## 🚀 Fitur Utama
+- Deteksi objek ikan menggunakan model YOLOv8.
+- Menghitung jumlah ikan dalam keranjang secara real-time.
+- Antarmuka pengguna modern dengan Flutter.
+- Dukungan pemrosesan offline dengan PyTorch Lite.
 
-This project is a starting point for a Flutter application.
+## 🧠 Teknologi yang Digunakan
+- **Flutter** — untuk pengembangan aplikasi mobile (Android/iOS)
+- **PyTorch Lite** — untuk inference model di perangkat mobile
+- **YOLOv8** — model deteksi objek canggih dari Ultralytics
+- **Dart & Python** — bahasa utama dalam proyek ini
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Deskripsi Singkat
+Aplikasi ini membantu proses penghitungan jumlah ikan di dalam keranjang secara otomatis, memanfaatkan model deteksi berbasis AI untuk efisiensi dan akurasi tinggi.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Cara Menjalankan
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/ym010900/keranjang_basket_counter.git
+   
+💡 Dibuat oleh: @ym010900
